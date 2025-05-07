@@ -1,4 +1,4 @@
-Use **BAET model** to reformulate.
+Use **BART model** to reformulate.
 
 ```python RAG_Reformulate.py```
 
