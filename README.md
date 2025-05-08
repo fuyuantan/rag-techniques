@@ -7,7 +7,7 @@
 
 2.Hybrid Retrieval：sparse (BM25) + dense (FAISS + Sentence Transformer Embeddings)
 
-```pip install faiss-gpu```
+```pip install faiss-gpu```<br>
 ```python RAG_Hybrid_Retrieval.py```
 
 ![2](https://github.com/user-attachments/assets/571993af-ecf8-4828-ac2b-4f77dba5ad31)
