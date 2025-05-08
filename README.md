@@ -13,8 +13,7 @@
 ![2](https://github.com/user-attachments/assets/571993af-ecf8-4828-ac2b-4f77dba5ad31)
 
 
-3.Re-ranking
-Use cross-encoder (ms-marco-MiniLM-L-6-v2) to count the scores of the pair data (query + initial retrieval results), and then rerank based on the scores.
+3.Re-ranking: Use cross-encoder (ms-marco-MiniLM-L-6-v2) to count the scores of the pair data (query + initial retrieval results), and then rerank based on the scores.
 
 ```python RAG_Re-ranking.py```
 
