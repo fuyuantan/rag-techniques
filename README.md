@@ -2,10 +2,9 @@ Learning Sequence: <br>
 	1. RAG_Reformulate.py<br>
 	2. RAG_Hybrid_Retrieval.py<br>
 	3. RAG_Re-ranking.py<br>
-
 	4. 1-RAG-PDF-Split<br>
 	5. 2-RAG-LLM<br>
-  6. 3-RAG-Eval<br>
+	6. 3-RAG-Eval<br>
 
 
 1.Reformulate: Use **BART model** to reformulate.
