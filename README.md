@@ -7,7 +7,7 @@ Learning Sequence: <br>
 5. `2-RAG-LLM`<br>
 6. `3-RAG-Eval`<br>
 
-1-3 are basic RAG rechniques.
+1-3 are basic RAG rechniques.<br>
 4-6 We chunk the PDF, then the retrieved text are as the context inputted into the LLM (qwen2-0.5) to get the response/answer, and finally evaluate this RAG using metrics such as hit rate. 
 
 ---
