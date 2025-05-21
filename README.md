@@ -3,9 +3,9 @@ Learning Sequence: <br>
 2. `RAG_Hybrid_Retrieval.py`<br>
 3. `RAG_Re-ranking.py`<br>
 
-4. `1-RAG-PDF-Split`<br>
-5. `2-RAG-LLM`<br>
-6. `3-RAG-Eval`<br>
+4. `RAG-Part2/1-RAG-PDF-Split`<br>
+5. `RAG-Part2/2-RAG-LLM`<br>
+6. `RAG-Part2/3-RAG-Eval`<br>
 
 1-3 are basic RAG rechniques.<br>
 4-6 We chunk the PDF, then the retrieved text are as the context inputted into the LLM (qwen2-0.5) to get the response/answer, and finally evaluate this RAG using metrics such as hit rate. 
